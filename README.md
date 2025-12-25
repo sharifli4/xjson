@@ -11,6 +11,8 @@ Browse your timeline while looking like you're debugging JSON data.
 
 Sometimes you want to check X without it being obvious. **xjson** displays tweets as JSON API responses - to anyone watching, you're just inspecting some API data.
 
+![xjson screenshot](assets/screenshot.png)
+
 ```json
 {
   "id": "1234567890",
