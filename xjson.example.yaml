@@ -1,0 +1,7 @@
+# Copy this file to xjson.yaml and fill in your credentials
+# Get them at: https://developer.twitter.com/en/portal/dashboard
+
+client_id: YOUR_CLIENT_ID
+client_secret: YOUR_CLIENT_SECRET  # optional for public clients
+bearer_token: YOUR_BEARER_TOKEN    # alternative to OAuth
+redirect_url: http://localhost:8080/callback

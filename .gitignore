@@ -1,0 +1,19 @@
+# Config with credentials
+xjson.yaml
+
+# Binary
+xjson
+
+# Token storage
+.xjson_token.json
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+go.work.sum
